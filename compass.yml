@@ -1,0 +1,13 @@
+name: cloud-sdk-starter-frontend-backend
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/e7c22b38-047a-4715-80d8-bc94f40cf076
+description: A starter repo that shows a frontend and backend deployment
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
