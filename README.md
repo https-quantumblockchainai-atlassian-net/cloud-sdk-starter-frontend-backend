@@ -1,4 +1,6 @@
 # Sample Repository for Restack Cloud SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcloud-sdk-starter-frontend-backend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcloud-sdk-starter-frontend-backend?ref=badge_shield)
+
 
 This repository is a sample project for helping you get started with Restack Cloud SDK. It showcases how to deploy applications, regardless of the programming language, in Restack and how they can communicate with each other.
 
@@ -70,3 +72,6 @@ Feel free to contribute to this repository by submitting issues or pull requests
 ## License
 
 This project is licensed under the MIT License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcloud-sdk-starter-frontend-backend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcloud-sdk-starter-frontend-backend?ref=badge_large)
